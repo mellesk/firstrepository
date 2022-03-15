@@ -1,3 +1,3 @@
 # firstrepository
-Repo GitHub
+Repo GitHub first repository
 New line from GitHub WebGui
